@@ -1,0 +1,116 @@
+:root {
+    
+}
+
+.icon_dienthoai {
+    background-image: url(https://cdn.tgdd.vn/mwgcart/mwg-site/ContentMwg/images/TGDD/Desktop/icon_common@2x.png?v=1);
+    background-position-x: -84px;
+    background-position-y: -90px;
+    background-size: 300px 200px;
+    box-sizing: border-box;
+    font-weight: 400;
+    font-size: 12px;
+    font-stretch: 100%;
+    width: 16px;
+    height: 20px;
+    list-style-image: none;
+    margin-right: 3px;
+    text-align: left;
+    display: inline-block;
+}
+.icon_laptop {
+    background-image: url(https://cdn.tgdd.vn/mwgcart/mwg-site/ContentMwg/images/TGDD/Desktop/icon_common@2x.png?v=1);
+    background-position-x: -105px;
+    background-position-y: -90px;
+    background-size: 300px 200px;
+    box-sizing: border-box;
+    font-weight: 400;
+    font-size: 12px;
+    font-stretch: 100%;
+    width: 25px;
+    height: 20px;
+    list-style-image: none;
+    margin-right: 3px;
+    text-align: left;
+    display: inline-block;
+}
+.icon_tablet {
+    background-image: url(https://cdn.tgdd.vn/mwgcart/mwg-site/ContentMwg/images/TGDD/Desktop/icon_common@2x.png?v=1);
+    background-position-x: -140px;
+    background-position-y: -90px;
+    background-size: 300px 200px;
+    box-sizing: border-box;
+    font-weight: 400;
+    font-size: 12px;
+    font-stretch: 100%;
+    width: 16px;
+    height: 20px;
+    list-style-image: none;
+    margin-right: 3px;
+    text-align: left;
+    display: inline-block;
+}
+.icon_phukien {
+    background-image: url(https://cdn.tgdd.vn/mwgcart/mwg-site/ContentMwg/images/TGDD/Desktop/icon_common@2x.png?v=1);
+    background-position-x: -165px;
+    background-position-y: -90px;
+    background-size: 300px 200px;
+    box-sizing: border-box;
+    font-weight: 400;
+    font-size: 12px;
+    font-stretch: 100%;
+    width: 22px;
+    height: 20px;
+    list-style-image: none;
+    margin-right: 3px;
+    text-align: left;
+    display: inline-block;
+}
+.icon_dhtm {
+    background-image: url(https://cdn.tgdd.vn/mwgcart/mwg-site/ContentMwg/images/TGDD/Desktop/icon_common@2x.png?v=1);
+    background-position-x: -195px;
+    background-position-y: -90px;
+    background-size: 300px 200px;
+    box-sizing: border-box;
+    font-weight: 400;
+    font-size: 12px;
+    font-stretch: 100%;
+    width: 17px;
+    height: 22px;
+    list-style-image: none;
+    margin-right: 3px;
+    text-align: left;
+    display: inline-block;
+}
+.icon_dhtt {
+    background-image: url(https://cdn.tgdd.vn/mwgcart/mwg-site/ContentMwg/images/TGDD/Desktop/icon_common@2x.png?v=1);
+    background-position-x: -220px;
+    background-position-y: -90px;
+    background-size: 300px 200px;
+    box-sizing: border-box;
+    font-weight: 400;
+    font-size: 12px;
+    font-stretch: 100%;
+    width: 15px;
+    height: 22px;
+    list-style-image: none;
+    margin-right: 3px;
+    text-align: left;
+    display: inline-block;
+}
+.icon_pc {
+    background-image: url(https://cdn.tgdd.vn/mwgcart/mwg-site/ContentMwg/images/TGDD/Desktop/icon_common@2x.png?v=1);
+    background-position-x: -240px;
+    background-position-y: -90px;
+    background-size: 300px 200px;
+    box-sizing: border-box;
+    font-weight: 400;
+    font-size: 12px;
+    font-stretch: 100%;
+    width: 22px;
+    height: 20px;
+    list-style-image: none;
+    margin-right: 3px;
+    text-align: left;
+    display: inline-block;
+}

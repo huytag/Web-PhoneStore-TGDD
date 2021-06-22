@@ -1,0 +1,170 @@
+/* Layout */
+
+header {
+  
+    min-height: 30px;
+    width: 100vw;
+    box-sizing: content-box;
+}
+
+section {
+    margin: 20px 340px;
+    background-color: deeppink;
+    height: 1000px;
+    min-height: 30px;
+}
+
+footer {
+    height: 200px;
+    margin: 20px 0;
+    background-color: deepskyblue;
+}
+
+
+.nav--search {
+ background-color: black;
+ min-height: 50px;
+ width: 100vw;
+ justify-content: space-around;
+ display: inline-flex;
+}
+
+.nav--menu {
+ background-color: #FED100;
+ min-height: 50px;
+}
+
+.nav__item__get {
+    text-align: center;
+    
+}
+
+.nav__item__get_item {
+    justify-content: space-between;
+    display: inline-flex;
+    color: #fff;
+    margin: 0 8px;
+    font-size: 17px;
+    font-weight: 200;
+    line-height: 50px;
+
+  
+}
+
+.nav__item__get_item:hover {
+    color: rgb(223, 210, 35);
+}
+
+.nav__item_menu {
+    text-align: center;
+}
+
+.nav__item__get__menu {
+    justify-content: space-between;
+    display: inline-flex;
+    margin: 0 10px;
+    padding: 0 5px;
+}
+
+.nav__item__get__menu:hover {
+    background-color: #fff;
+}
+
+.nav_text_none--edit:hover .nav__item__get__menu--hover {
+    display: block;
+}
+
+.nav_text_none--edit-PK:hover .nav__item__get__menu--hover-PK {
+    display: block;
+}
+
+
+
+.nav_text_none {
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+    font-weight: 540;
+    line-height: 50px;
+    position: relative;
+}
+
+.nav_text_none--edit {
+    height: 50px;
+}
+
+
+/* Hover PC show */
+
+.nav__item__get__menu--hover {
+    
+    position: absolute;
+    top: 50px;
+    left: -5px;
+    height: 140px;
+    width: 155px;
+    background-color: #fff;
+    border-radius: 5px;
+    border: 0.02px solid #333;
+    display: none;
+}
+
+.nav__hover-item {
+    left: 0;
+  }
+
+.nav__hover--PC {
+    list-style: none;
+    text-align: left;
+    line-height: 30px;
+    margin: 10px 0px;
+    padding: 0 0 0 8px;
+}
+
+.nav__hover-item:hover {
+    color: rgb(3, 44, 138);
+    box-sizing: border-box;
+}
+
+
+/* Hover Phụ kiện */
+.nav__item__get__menu--hover-PK {
+    list-style: none;
+    position: absolute;
+    top: 50px;
+    left: -5px;
+    width: 700px;
+    text-align: left;
+    line-height: 30px;
+    background-color: #fff;
+    border-radius: 3px;
+    border: 0.01px solid #333;
+    display: none;
+}
+
+.nav__hover-item-PK {
+    margin-right: 50px;
+    
+  }
+
+  .nav__hover--PK {
+    list-style: none;
+    text-align: left;
+    line-height: 30px;
+    margin: 10px 0px;
+    padding: 0 0 0 10px;
+    display: inline-block;
+}
+
+.nav__hover--PK_text {
+    margin:  0;
+}
+
+.nav__hover-item-PK:hover {
+    color: rgb(3, 44, 138);
+    box-sizing: border-box;
+}
+
+
+
+
